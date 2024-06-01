@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f853a35.css",
+    "main.js": "/static/js/main.ba34cef1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DAS.jpeg": "/static/media/DAS.005b3f1475ce07794752.jpeg",
+    "static/media/Profile.jpeg": "/static/media/Profile.a9bdbd013844cb10fb40.jpeg",
+    "static/media/Space.png": "/static/media/Space.a3c1d9f543c6f4e7a605.png",
+    "static/media/VirtualInternet.png": "/static/media/VirtualInternet.475d49793f85d2924312.png",
+    "static/media/Terrarium.jpg": "/static/media/Terrarium.7baad7accc80f0ee9308.jpg",
+    "static/media/sarcasm.jpg": "/static/media/sarcasm.5b1063ab40850c788ac4.jpg",
+    "static/media/traffic.jpg": "/static/media/traffic.4e1ae3c1973fb27bede7.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Alexander_Sitzman_Resume_5_13_24.pdf": "/static/media/Alexander_Sitzman_Resume_5_13_24.bfaf91bd8133758def3a.pdf",
+    "static/media/mylogo.png": "/static/media/mylogo.aba51b99cc3123177131.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.0f853a35.css.map": "/static/css/main.0f853a35.css.map",
+    "main.ba34cef1.js.map": "/static/js/main.ba34cef1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f853a35.css",
+    "static/js/main.ba34cef1.js"
+  ]
+}
