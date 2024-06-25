@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0f853a35.css",
-    "main.js": "/static/js/main.26fd5a25.js",
+    "main.js": "/static/js/main.aafc6325.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/DAS.jpeg": "/static/media/DAS.005b3f1475ce07794752.jpeg",
@@ -13,18 +13,18 @@
     "static/media/traffic.jpg": "/static/media/traffic.4e1ae3c1973fb27bede7.jpg",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Alexander_Sitzman_Resume_5_13_24.pdf": "/static/media/Alexander_Sitzman_Resume_5_13_24.bfaf91bd8133758def3a.pdf",
+    "static/media/AlexanderSitzmanResume6_25_24.pdf": "/static/media/AlexanderSitzmanResume6_25_24.c4f50a39bb522aba40a1.pdf",
     "static/media/mylogo.png": "/static/media/mylogo.aba51b99cc3123177131.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.0f853a35.css.map": "/static/css/main.0f853a35.css.map",
-    "main.26fd5a25.js.map": "/static/js/main.26fd5a25.js.map",
+    "main.aafc6325.js.map": "/static/js/main.aafc6325.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f853a35.css",
-    "static/js/main.26fd5a25.js"
+    "static/js/main.aafc6325.js"
   ]
 }
